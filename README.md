@@ -8,6 +8,9 @@
 [website]: https://pedromrv.github.io
 <!--START_SECTION:waka-->
 
+```text
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
