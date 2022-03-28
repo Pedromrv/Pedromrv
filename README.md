@@ -35,17 +35,17 @@
 </div>
 <div id="github-stats">
 	<h2>
-		GitHub Stats
+		More Stats
 	</h2>
 	<p>
 		<a href="https://github.com/Pedromrv/" target="_blank" rel="noopener noreferrer">
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedromrv&hide=html&theme=vue-dark&show_icons=true"
 				alt="Pedro's GitHub Stats: Top programming languages"/>
 		</a>
-		<a href="https://github.com/Pedromrv/" target="_blank" rel="noopener noreferrer">
+		<!-- <a href="https://github.com/Pedromrv/" target="_blank" rel="noopener noreferrer">
 			<img src="https://github-readme-stats.vercel.app/api?username=Pedromrv&count_private=true&theme=vue-dark&show_icons=true"
 				alt="Pedro's GitHub Stats"/>
-		</a>
+		</a> -->
 	</p>
 </div>
 
