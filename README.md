@@ -18,24 +18,38 @@
 	<p>
 		<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 		<img src="https://img.shields.io/badge/-Css3-2173F6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-		<img src="https://img.shields.io/badge/-SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS/SCSS" />
 		<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />
-		<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-		<img src="https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000000" alt="Babel" />
-		<img src="https://img.shields.io/badge/-Vue-3FB280?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vuejs" />
-		<img src="https://img.shields.io/badge/-JQuery-183353?style=for-the-badge&logo=JQuery&logoColor=white" alt="JQuery" />
-		<img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
-		<img src="https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
-		<img src="https://img.shields.io/badge/Bash-3D4648?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-		<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell" />
 		<img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown" />
 	</p>
 </div>
-<!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
+<div id="backend">
+	<h3>
+		Backend
+	</h3>
+	<p>
+		<img src="https://img.shields.io/badge/-PHP7-5F82BB?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP7" />
+		<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=00758F" alt="MySQL" />
+		<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=tool&logoColor=707072" alt="MAMP" />
+	</p>
+</div>
+<div id="github-stats">
+	<h2>
+		GitHub Stats
+	</h2>
+	<p>
+		<a href="https://github.com/Pedromrv/" target="_blank" rel="noopener noreferrer">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedromrv&hide=html&theme=vue-dark&show_icons=true"
+				alt="Pedro's GitHub Stats: Top programming languages"/>
+		</a>
+		<a href="https://github.com/Pedromrv/" target="_blank" rel="noopener noreferrer">
+			<img src="https://github-readme-stats.vercel.app/api?username=Pedromrv&count_private=true&theme=vue-dark&show_icons=true"
+				alt="Pedro's GitHub Stats"/>
+		</a>
+	</p>
+</div>
+
+<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
