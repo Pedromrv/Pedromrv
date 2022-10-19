@@ -38,7 +38,6 @@
 		<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=tool&logoColor=707072" alt="MAMP" />
 	</p>
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromrv)
 
 
 <!--
