@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on GammaTech School
 - ⚡ Fun fact: I play rugby during the weekends and I still can code
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromrv&count_private=true)
+
 ### Skills
 
 <p align="left">
