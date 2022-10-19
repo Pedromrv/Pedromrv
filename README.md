@@ -39,7 +39,7 @@
 	</p>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromrv&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Pedromrv/Pedromrv))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedromrv&repo=github-readme-stats)](https://github.com/Pedromrv/Pedromrv))
 
 <!--
 **Pedromrv/Pedromrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
