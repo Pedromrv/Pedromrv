@@ -7,7 +7,8 @@
 
 [website]: https://pedromrv.github.io
 
-
+- 🔭 I’m currently working on GammaTech School
+- ⚡ Fun fact: I play rugby during the weekends and I still can code
 
 ### Skills
 
@@ -35,14 +36,6 @@
 		<img src="https://img.shields.io/badge/-Mamp-707072?style=for-the-badge&logo=tool&logoColor=707072" alt="MAMP" />
 	</p>
 </div>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <!--
 **Pedromrv/Pedromrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
